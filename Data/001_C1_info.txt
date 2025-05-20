@@ -1,0 +1,23 @@
+Subject ID: 001
+Cycle No: 1
+Sampling Rate: 512
+Design:
+name,duration,wait_for_key
+Fix.png,10,False
+Black.png,9,False
+Doors.png,9,False
+minus.png,3,False
+Black.png,9,False
+Doors.png,9,False
+plus.png,3,False
+Black.png,9,False
+Doors.png,9,False
+plus.png,3,False
+Black.png,9,False
+Doors.png,9,False
+minus.png,3,False
+Black.png,9,False
+Doors.png,9,False
+plus.png,3,False
+Black.png,9,False
+end.png,20,True
