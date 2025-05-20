@@ -118,7 +118,7 @@ The Channel Rename box is used to assign meaningful, human-readable names to the
 ________________________________________
 ### Running the Experiment
 
-For easy setup and run please check out this video manual
+For easy setup and run please check out this video manual https://youtu.be/gEdyHdbDCOE
 
 Also a bit of information of the design of the task presented in this git:
 
