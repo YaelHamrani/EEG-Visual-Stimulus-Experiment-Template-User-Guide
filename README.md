@@ -42,11 +42,14 @@ The experiment logic (image order, timing, feedback, etc.) is controlled via a .
 ________________________________________
 ## OpenViBE Interface
 
+Before using OpenViBE, ensure that your EEG device is connected to your PC as you would for any standard recording session. However, instead of launching the device’s proprietary software, you can now use OpenViBE to read and stream the EEG data.
+
 OpenViBE consists of two main applications that work together to configure and run EEG-based experiments:
 
 ### 1. OpenViBE Acquisition Server (64-bit)
 
    This application is responsible for connecting to the EEG device and controlling its configuration.
+   
    Here you can:
 
    •	Select the device type (e.g., BrainAmp, Emotiv, etc.)
@@ -69,7 +72,7 @@ ________________________________________
     
     This is the main application where you:
 
-    •	Load and run OpenViBE scenarios (graphical workflows)
+    •	Load and run OpenViBE scenarios (graphical workflows) - attached is the test.xml file
 
     •	Stream EEG data in real-time
     
