@@ -1,0 +1,16 @@
+The files are too big to be saved here so you will need to download from the official site:
+
+1. OpenViBE 3.6.0 - https://openvibe.inria.fr/downloads/
+
+2.Python 3.10.11 from the link located here: https://openvibe.inria.fr/tutorial-using-python-with-openvibe/
+
+
+Python Dependencies:
+
+numpy
+pandas
+pygame
+os
+time
+tkinter
+datetime 
